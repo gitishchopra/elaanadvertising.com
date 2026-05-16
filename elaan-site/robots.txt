@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elaanadvertising.com/sitemap.xml
